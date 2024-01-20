@@ -44,8 +44,8 @@
     },
     {
       "id": 4,
-      "start": "London",
-      "end": "Berlin",
+      "start": "Lapland",
+      "end": "Loompaland",
       "cheapest_travel": { "date": "2024-12-15", "price": 168 },
       "dates": [
         { "date": "2024-12-12", "price": 175 },
