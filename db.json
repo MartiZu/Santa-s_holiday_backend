@@ -172,7 +172,19 @@
       "id": 29,
       "start": "Amsterdam",
       "end": "Brussels",
-      "cheapest_travel": { "date": "2024-12-21", "price": 88 }
+      "cheapest_travel": { "date": "2024-12-21", "price": 79 }
+    },
+    {
+      "id": 30,
+      "start": "Brussels",
+      "end": "Luxembourg",
+      "cheapest_travel": { "date": "2024-12-22", "price": 154 }
+    },
+    {
+      "id": 31,
+      "start": "Luxembourg",
+      "end": "Strasbourg",
+      "cheapest_travel": { "date": "2024-12-23", "price": 98 }
     }
   ]
 }
