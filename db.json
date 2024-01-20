@@ -64,8 +64,97 @@
       "id": 11,
       "start": "Birmingham",
       "end": "Coventry",
-      "cheapest_travel": { "date": "2024-12-22", "price": 99 }
+      "cheapest_travel": { "date": "2024-12-22", "price": 88 }
     },
-    {}
+    {
+      "id": 12,
+      "start": "Coventry",
+      "end": "Manchester",
+      "cheapest_travel": { "date": "2024-12-22", "price": 76 }
+    },
+    {
+      "id": 13,
+      "start": "Manchester",
+      "end": "Liverpool",
+      "cheapest_travel": { "date": "2024-12-22", "price": 114 }
+    },
+    {
+      "id": 14,
+      "start": "Liverpool",
+      "end": "Leeds",
+      "cheapest_travel": { "date": "2024-12-22", "price": 57 }
+    },
+    {
+      "id": 15,
+      "start": "Leeds",
+      "end": "Newcastle",
+      "cheapest_travel": { "date": "2024-12-22", "price": 111 }
+    },
+    {
+      "id": 16,
+      "start": "Newcastle",
+      "end": "Glasgow",
+      "cheapest_travel": { "date": "2024-12-22", "price": 143 }
+    },
+    {
+      "id": 17,
+      "start": "Glasgow",
+      "end": "Edinburgh",
+      "cheapest_travel": { "date": "2024-12-22", "price": 57 }
+    },
+    {
+      "id": 18,
+      "start": "Edinburgh",
+      "end": "Aberdeen",
+      "cheapest_travel": { "date": "2024-12-22", "price": 38 }
+    },
+    {
+      "id": 19,
+      "start": "Aberdeen",
+      "end": "Inverness",
+      "cheapest_travel": { "date": "2024-12-22", "price": 75 }
+    },
+    {
+      "id": 20,
+      "start": "Inverness",
+      "end": "Stirling",
+      "cheapest_travel": { "date": "2024-12-22", "price": 79 }
+    },
+    {
+      "id": 21,
+      "start": "Stirling",
+      "end": "Dundee",
+      "cheapest_travel": { "date": "2024-12-22", "price": 101 }
+    },
+    {
+      "id": 22,
+      "start": "Dundee",
+      "end": "Perth",
+      "cheapest_travel": { "date": "2024-12-22", "price": 154 }
+    },
+    {
+      "id": 23,
+      "start": "Perth",
+      "end": "St Andrews",
+      "cheapest_travel": { "date": "2024-12-22", "price": 114 }
+    },
+    {
+      "id": 24,
+      "start": "St Andrews",
+      "end": "Dunfermline",
+      "cheapest_travel": { "date": "2024-12-22", "price": 132 }
+    },
+    {
+      "id": 25,
+      "start": "Rome",
+      "end": "Venice",
+      "cheapest_travel": { "date": "2024-12-22", "price": 117 }
+    },
+    {
+      "id": 26,
+      "start": "Venice",
+      "end": "Milan",
+      "cheapest_travel": { "date": "2024-12-22", "price": 142 }
+    }
   ]
 }
